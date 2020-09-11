@@ -51,6 +51,7 @@ After completing the analysis audit for the election:
 To analyze the data resource provided in regards to participating counties election results and turnout.
 
 *### Important Note:*
+
 **The Challenge audit README is available in the analysis folder of this repository**
 
 ## Challenge Summary
