@@ -32,23 +32,19 @@ After completing the analysis audit for the election:
 1. There were 369,711 votes cast for the election.
 2. The contending Candidates were:
 
-    A: Charles Casper Stockham
-
-    B: Diana DeGette
-
-    C: Raymon Anthony Doane
+    - Charles Casper Stockham
+    - Diana DeGette
+    - Raymon Anthony Doane
 
 3. The Candiate results were:
     
-    A: Charles Casper Stockham received 23.0% of the vote and 85,213 number of votes.
-    
-    B: Diana DeGette received 73.8% of the vote and 272,892 number of votes.
-    
-    C: Raymon Anthony Doane received 3.1% of the vote and 11,606 number of votes.
+    - Charles Casper Stockham received 23.0% of the vote and 85,213 number of votes.
+    - Diana DeGette received 73.8% of the vote and 272,892 number of votes.
+    - Raymon Anthony Doane received 3.1% of the vote and 11,606 number of votes.
 
 4. The Winner of the congressional election was:
     
-    - Diana DeGette, who received 73.8% of the vote and 272,892 number of votes.
+    - ***Diana DeGette**, who received **73.8%** of the vote and **272,892** number of votes.*
 
 ## Challenege Overview
 
@@ -58,10 +54,8 @@ To analyze the data resource provided in regards to participating counties elect
 
 #### Summary Results
 
-    A. Jefferson county turnout was 10.5% of the votes with 38,855 number of votes.
-
-    B. Denver county turnout was 82.8% of the votes with whooping 306,055 number of votes.
-
-    C. Arapahoe county turnout was 6.7% of the votes with 24,801 number of votes.
+    - Jefferson county turnout was 10.5% of the votes with 38,855 number of votes.
+    - Denver county turnout was 82.8% of the votes with whooping 306,055 number of votes.
+    - Arapahoe county turnout was 6.7% of the votes with 24,801 number of votes.
 
 Clearly Denver having the largest turnout amongst the counties.
