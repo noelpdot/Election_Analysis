@@ -29,7 +29,7 @@ winning_percentage = 0
 # 2: Track the largest county and county voter turnout. [STEP 2]
 largest_county = ""  
 largest_turnout = 0 # county with the largest / most votes
-# county_total_votes = 0 #Total Votes  , can also use total_votes
+# county_total_votes = 0 #Total Votes  , can also use total_votes rather than set up a new total votes like i initially did
 
 # Read the csv and convert it into a list of dictionaries
 with open(file_to_load) as election_data:
@@ -48,7 +48,7 @@ with open(file_to_load) as election_data:
         candidate_name = row[2]
 
         # 3: Extract the county name from each row. [STEP 3]
-        # county_total_votes += 1; its the same as total votes in the election
+        # county_total_votes += 1;
         county = row[1]
 
         # If the candidate does not match any existing candidate add it to
